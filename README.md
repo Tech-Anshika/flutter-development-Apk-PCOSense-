@@ -1,44 +1,75 @@
-🌺 PCOSense – Your Smart Companion for PCOD/PCOS Management
-PCOSense is a personalized health and wellness app designed specifically for women dealing with PCOD/PCOS. It integrates AI-powered support with holistic health tracking to empower users with tools to manage symptoms, track progress, and build healthy lifestyle habits. Whether it’s keeping up with your medication, yoga routine, diet, or menstrual cycle, PCOSense helps you stay on track effortlessly.
+## 🌺 About PCOSense
 
-🚀 Key Features
-🤖 AI Chatbot Support
-Ask questions, get guidance, and receive lifestyle tips through an interactive Gemini-powered AI assistant.
+**PCOSense** is a smart, Flutter-based health and wellness app built to support women managing **PCOD/PCOS**. The app combines **AI assistance**, **progress tracking**, **personalized yoga and diet plans**, and **interactive learning tools** to promote healthier daily routines and symptom management.
 
-🧘 Yoga Recommendations
-Get yoga poses tailored to your symptoms, with images and health benefits to guide your practice.
+---
 
-📈 Progress Tracker
-Manually track your daily goals for:
+## 🚀 Features
 
-Exercise
+### 🤖 AI Chatbot (Gemini-Powered)
+- Ask health-related questions
+- Get lifestyle tips and PCOS support
+- Available 24/7 as your virtual health companion
 
-Diet
+### 🧘 Yoga Recommendations
+- Yoga poses tailored to your current symptoms
+- Images and benefits displayed for each asana
 
-Yoga
+### 📈 Progress Tracker
+- Track your daily:
+  - 🏃 Exercise
+  - 🥗 Diet
+  - 💊 Medication
+  - 🧘 Yoga
+  - 👣 Walking steps
+- Easy manual checkboxes to mark completion
 
-Walking
+### 🍎 Food Diet Plans
+- Food suggestions based on:
+  - Health conditions
+  - Menstrual cycle phases (Follicular, Ovulation, Luteal, Menstrual)
 
-Medication
+### 📅 Menstrual Cycle Tracker
+- Monitor your period and symptoms
+- Predict upcoming phases
 
-All with a simple and interactive checklist.
+### 🎮 Interactive Games
+- Fun and educational mini-games for:
+  - Period cycle awareness
+  - Pain distraction
+  - Food and nutrition awareness
+  - PCOD puzzle games with hints
 
-🍎 Food Diet Plans
-Receive personalized food suggestions based on your health conditions and menstrual cycle phases.
+### 📊 ESP32 Sensor Integration *(Upcoming)*
+- Real-time sensor data display
+- Potential for wearable health monitoring
 
-📅 Menstrual Cycle Tracker
-Understand and track your period patterns to better manage symptoms.
+---
 
-🎮 Interactive Games
-Enjoy mini-games designed for:
+## 📱 Built With
 
-Period awareness
+- **Flutter**
+- **Dart**
+- **Gemini AI API (via Google Cloud)**
+- **ESP32** (for future IoT support)
 
-Symptom distraction
+---
 
-Nutrition education
+## 💡 Future Enhancements
 
-PCOD-related puzzles
+- Firebase integration for secure data storage
+- In-app reminders for medication and water intake
+- Community support chat
+- Android/iOS deployment
 
-📊 ESP32 Integration (Upcoming Feature)
-Visualize real-time sensor data from connected devices for future expansion into IoT-based health monitoring.
+---
+
+## 🙋‍♀️ Author
+
+**Anshika Tyagi**  
+👩‍💻 B.Tech | IIoT | Flutter Dev | AI & IoT Enthusiast  
+📧 tyagianshika410@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anshika-tyagi-413b99266/) | [GitHub](https://github.com/Tech-Anshika)
+
+---
+
